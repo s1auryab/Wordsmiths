@@ -6,12 +6,11 @@
 **Project Title:** Word and Text Analyzer  
 **Team Name:** Wordsmiths  
 **Problem Number:** 9  
-**Batch:** 35 - 36
+**Batch:** 53
 
 **Team Members:**
-1. Utkarsh Pandey
-2. Mahek Shah
-3. Shaurya Bhatia
+1. Ronit Yadav
+
 
 ## 2. Problem Statement
 
